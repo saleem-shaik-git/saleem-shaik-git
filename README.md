@@ -1,10 +1,4 @@
-Perfect 👍 — let’s update this `README.md` for **Saleem Shaik’s actual GitHub account (`saleem-shaik-git`)**, and optimize it for **real profile data**, **SEO visibility**, and **modern portfolio structure** with all live links, correct stats, and a project showcase.
 
-Here’s the **optimized + account-tailored version** 👇
-
----
-
-```markdown
 <!-- Profile Banner -->
 <p align="center">
   <img src="./assets/banner.jpg" alt="Shaik Saleem — Java Microservices Engineer" width="100%" />
