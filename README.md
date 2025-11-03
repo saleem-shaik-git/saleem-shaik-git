@@ -1,4 +1,3 @@
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="./assets/banner.jpg" alt="Shaik Saleem — Java Microservices Engineer" width="100%" />
@@ -13,7 +12,7 @@
 **Hi, I’m [Shaik Saleem](https://www.linkedin.com/in/saleem-shaik-66b9a16a/)** — a **Software Engineer** specializing in **Java, Spring Boot, and Microservice Architecture**.  
 
 I design and build **high-performance, distributed backend systems** with a focus on **clean architecture**, **scalability**, and **resilience**.  
-This GitHub profile showcases my projects, contributions, and learning journey in **enterprise-grade backend engineering** and **DevOps automation**.
+This GitHub profile showcases my work in **Spring Cloud microservices**, **API gateways**, and **event-driven architectures**.
 
 ---
 
@@ -25,13 +24,13 @@ This GitHub profile showcases my projects, contributions, and learning journey i
 🔗 **LinkedIn:** [linkedin.com/in/saleem-shaik-66b9a16a](https://www.linkedin.com/in/saleem-shaik-66b9a16a/)  
 
 I focus on:
-- Designing **modular, fault-tolerant** services with Spring Boot and Spring Cloud  
-- Building **API-driven** systems with REST & GraphQL  
-- Implementing **DevOps pipelines**, containerization, and CI/CD  
-- Leveraging **Kafka, Docker, and Kubernetes** for scalable deployments  
+- Building **modular and fault-tolerant** microservices using **Spring Boot** and **Spring Cloud**  
+- Implementing **API Gateways**, **Service Discovery**, and **Configuration Management**  
+- Integrating **Kafka, RabbitMQ**, and other event-driven systems  
+- Automating deployments with **Docker**, **Kubernetes**, and **GitHub Actions**  
 
-🎯 **Goal:** To build systems that are *clean, reliable, and production-ready*.  
-🧠 **Exploring:** Distributed tracing, event-driven architectures, and reactive systems.
+🎯 **Goal:** Build robust systems that are *scalable, maintainable, and cloud-native*.  
+🧠 **Exploring:** Distributed tracing, reactive systems, and advanced CI/CD automation.
 
 ---
 
@@ -42,15 +41,14 @@ I focus on:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-4285F4?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & Messaging
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
@@ -68,15 +66,15 @@ I focus on:
 
 # 🚀 Featured Projects  
 
-Here are some highlighted repositories from my GitHub portfolio:
+Here are some of my core microservice projects built with **Spring Boot** and **Spring Cloud**:
 
-| Project | Description | Tech Stack | Live / Repo |
-|----------|--------------|------------|--------------|
-| **[customer-lifetime-value](https://github.com/saleem-shaik-git/customer-lifetime-value)** | Predicts customer lifetime revenue using data science techniques | Python, Pandas, ML | [View Repo](https://github.com/saleem-shaik-git/customer-lifetime-value) |
-| **[financial-risk-assessment](https://github.com/saleem-shaik-git/financial-risk-assessment)** | Automated financial risk scoring using microservices | Java, Spring Boot, Kafka | [View Repo](https://github.com/saleem-shaik-git/financial-risk-assessment) |
-| **[loan-default-prediction](https://github.com/saleem-shaik-git/loan-default-prediction)** | Predicts loan default probabilities using ML models | Python, Flask, Scikit-learn | [View Repo](https://github.com/saleem-shaik-git/loan-default-prediction) |
-| **[nutrition-and-obesity-trends](https://github.com/saleem-shaik-git/nutrition-and-obesity-trends)** | Health analytics dashboard for nutrition data | Python, Plotly, Dash | [View Repo](https://github.com/saleem-shaik-git/nutrition-and-obesity-trends) |
-| **[disease-outbreak-prediction](https://github.com/saleem-shaik-git/disease-outbreak-prediction)** | Predictive analytics for outbreak forecasting | ML, Pandas, Flask | [View Repo](https://github.com/saleem-shaik-git/disease-outbreak-prediction) |
+| Project | Description | Tech Stack | Repo |
+|----------|--------------|------------|------|
+| **[api-gateway-springcloud](https://github.com/saleem-shaik-git/api-gateway-springcloud)** | Central API Gateway for routing requests and securing microservices using Spring Cloud Gateway | Spring Boot, Spring Cloud Gateway, Security | [View Repo](https://github.com/saleem-shaik-git/api-gateway-springcloud) |
+| **[config-server-springcloud](https://github.com/saleem-shaik-git/config-server-springcloud)** | Externalized configuration management for distributed services | Spring Boot, Spring Cloud Config, Git Backend | [View Repo](https://github.com/saleem-shaik-git/config-server-springcloud) |
+| **[service-registry-eureka](https://github.com/saleem-shaik-git/service-registry-eureka)** | Eureka-based service discovery for dynamic microservice registration | Spring Cloud Netflix Eureka, REST | [View Repo](https://github.com/saleem-shaik-git/service-registry-eureka) |
+| **[notification-center](https://github.com/saleem-shaik-git/notification-center)** | Event-driven notification microservice for email/SMS alerts | Spring Boot, Kafka, RabbitMQ | [View Repo](https://github.com/saleem-shaik-git/notification-center) |
+| **[payment-gateway-service](https://github.com/saleem-shaik-git/payment-gateway-service)** | Handles secure transaction flows and payment orchestration | Spring Boot, REST, JWT, PostgreSQL | [View Repo](https://github.com/saleem-shaik-git/payment-gateway-service) |
 
 ---
 
@@ -121,11 +119,11 @@ Here are some highlighted repositories from my GitHub portfolio:
 ---
 
 <p align="center">
-  <b>✨ Building resilient, scalable backend systems — one service at a time ✨</b>
+  <b>✨ Building resilient, scalable backend systems — one microservice at a time ✨</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saleem-shaik-git&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views counter" />
 </p>
 
-
+---
